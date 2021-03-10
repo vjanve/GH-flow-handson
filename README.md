@@ -1,6 +1,4 @@
-# GH-flow-handson
-repo to collaborate with git flow
-
-collaborators:
-
-vjanve
+# GH-flow-handson: repo to collaborate with git flow
+Team Members: 
+James Zimmer-Dauphinee
+Vaibhav Janve
